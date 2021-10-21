@@ -19,9 +19,7 @@ h1 {
 }
 
 p {
-	
 	padding: 10px;
-	
 }
 
 .container {
@@ -64,15 +62,13 @@ p {
 #psubt2 {
 	background-color: #8c2303;
 	color: #fff0b8;
-	
-
 }
 
 #psubt3 {
 	background-color: #cadaa0; 
 	color: #2b53b1;
-
 }
+
 /********** Desktop **********/
 @media (min-width: 992px){
 	.response {
@@ -91,7 +87,6 @@ p {
 	#R3 {
 		width: 100%;
 	}
-
 }
 
 /********** Mobile **********/
